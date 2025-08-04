@@ -10,16 +10,15 @@ I'm eager to connect with like-minded developers, collaborate on open-source, an
 ---
 
 #Tech Stack
-![HTML]
-![CSS]
-![JAVA SCRIPT]
-![REACT]
-![NODE.JS]
-![EXPRESS.JS]
-![MONGO DB]
-![SQL]
-![]
+## 🛠 Tech Stack
 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 
 <!--
 **Manoj-939/Manoj-939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
