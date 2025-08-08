@@ -1,58 +1,59 @@
-<h1 align="center">Hey there! 👋 I'm [Kotipalli Manoj]</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm K. Manoj</h1>
+<h3 align="center">💻 Passionate Full Stack Developer | 🚀 Lifelong Learner | 🌏 Tech Explorer</h3>
 
+---
+
+<!-- Typing SVG -->
 <p align="center">
-  🔭 Full Stack Developer | 🌐 MERN Stack Enthusiast | 🚀 Passionate Learner
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Welcome+to+my+GitHub+Profile!;I+Love+Building+Full+Stack+Apps;Exploring+Python%2C+JavaScript+%26+AI;Always+Learning+New+Tech+🔥" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-Hello! I'm [Kotipalli Manoj], a passionate and enthusiastic full stack developer who loves crafting efficient and user-friendly web applications.
-
-- 🌱 Currently exploring the *MERN* stack (MongoDB, Express.js, React, Node.js)
-- 💡 Building real-world projects to sharpen my skills
-- 🤝 Open to collaborating on open-source and impactful tech initiatives
-- 🌍 Always eager to learn and grow with the tech community
+## 🚀 About Me
+- 🎯 **Goal:** To craft innovative solutions that make life easier  
+- 📚 Currently learning **Next.js, AI tools & Cloud deployment**  
+- 🛠 Working on **Full Stack Projects**  
+- 🎨 Love blending **design & functionality** for beautiful user experiences  
 
 ---
 
-## 🛠 Tech Stack
-
-*Frontend:*
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-*Backend:*
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-*Database:*
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-*Tools & Platforms:*
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="47%"/>
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Django-green?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-black?logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoj&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manoj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Footer Quote -->
+<p align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</p>
 
 ---
 
