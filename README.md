@@ -102,7 +102,7 @@ Converts PDF documents into audio, making reading more accessible using text ext
 </td>
 <td width="50%">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcBTY5kLTaZ1B5EnH5M1Oo3fPnoUBKw_dHyCYPHQHeg&s=10text=E-Commerce+Website&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsteJhATjM1mbIz7ZrWT9eOJmczREVJhluYikhwd9Z_Q&s=10text=E-Commerce+Website&font=roboto" width="100%" />
 
 **🛒 E-Commerce Website**
 Responsive e-commerce website front end built from scratch, covering product listings, layout, and interactivity.
