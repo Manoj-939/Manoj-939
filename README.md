@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kotipalli Manoj</h1>
-<h3 align="center">🎓 B.Tech ECE | Aspiring Full Stack Developer 💻</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%26+Python);GenAI+%26+Web+Development+Enthusiast;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kotipalli-manoj-459693280" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kotipallimanoj81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://personalwebport34.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+Python);GenAI+%26+Web+Development+Enthusiast;Always+Learning%2C+Always+Building!" />
 
----
+<a href="https://www.linkedin.com/in/kotipalli-manoj-459693280" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kotipallimanoj81@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://personalwebport34.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-### 👤 About Me
+<img src="https://komarev.com/ghpvc/?username=Manoj-939&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br>
+
+## 👤 About Me
 
 - 📍 Based in East Vipparru, Andhra Pradesh
 - 🎓 B.Tech in Electronics & Communication Engineering
@@ -30,150 +31,166 @@
 - 🎯 **Career Goals:** Looking for Full Stack Developer, MERN Stack Developer, and Python Full Stack Developer roles — with opportunities to work on GenAI-powered applications and real-world projects
 - ⚡ **Fun Fact:** I can spend hours debugging one tiny error… and then realize it was just a missing `;` 😄
 
-**🎯 Interests:** Generative AI 🤖 | Web Development 💻
+**🎯 Interests:** Generative AI 🤖 &nbsp;|&nbsp; Web Development 💻
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<!-- Languages -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,vite,bootstrap,nodejs,express,django,mongodb,mysql,git,github,vscode&theme=dark" />
+</div>
 
-<!-- Frontend -->
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+<div align="center">
+<sub>NumPy • Pandas • Matplotlib • Google Colab</sub>
+</div>
 
-<!-- Backend -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+<br>
 
-<!-- Databases -->
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## 🚀 Featured Projects
 
-<!-- Tools & Platforms -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
+<!-- Add live demo links as you deploy your projects. Add/replace project images by uploading your own screenshots and updating the image URLs below. -->
 
-<!-- AI / Data -->
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=Roamly&font=roboto" width="100%" />
 
-### 🚀 Featured Projects
+**🏠 Roamly — Airbnb-Style Homepage Clone**
+Airbnb-inspired homepage clone built during my frontend internship, featuring a wishlist hook, category filters, a price-range slider, and a fully responsive listings grid.
+`React` `Tailwind CSS` `Vite` `lucide-react`
+🔗 Live Demo: <!-- Add your live demo link here -->
 
-<!-- Add/update GitHub links and live demo links as you push your repos -->
+</td>
+<td width="50%">
 
-#### 🏠 Roamly — Airbnb-Style Homepage Clone
-An Airbnb-inspired homepage clone built during my frontend internship, featuring a wishlist hook, category filters, a price-range slider, and a fully responsive listings grid.
-**Tech Stack:** React, Tailwind CSS, Vite, lucide-react
-**GitHub:** <!-- Add your GitHub link here -->
-**Live Demo:** <!-- Add your live demo link here -->
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=AI+Medical+Report+Analyser&font=roboto" width="100%" />
 
-#### 🏥 AI Medical Report Analyser
-An AI-powered application that analyzes medical reports using Retrieval-Augmented Generation (RAG) and semantic search to extract and explain key insights.
-**Tech Stack:** Python, RAG, Semantic Search
-**GitHub:** <!-- Add your GitHub link here -->
+**🏥 AI Medical Report Analyser**
+AI-powered application that analyzes medical reports using Retrieval-Augmented Generation (RAG) and semantic search to extract and explain key insights.
+`Python` `RAG` `Semantic Search`
 
-#### 📖 Audio E-Book Reader
-A tool that converts PDF documents into audio, making reading more accessible using text extraction and text-to-speech.
-**Tech Stack:** Python, PyPDF, gTTS
-**GitHub:** <!-- Add your GitHub link here -->
+</td>
+</tr>
 
-#### 🛒 E-Commerce Website
-A responsive e-commerce website front end built from scratch, covering product listings, layout, and interactivity.
-**Tech Stack:** HTML, CSS, JavaScript
-**GitHub:** <!-- Add your GitHub link here -->
+<tr>
+<td width="50%">
 
-#### 📊 EDA Project — Exploratory Data Analysis
-A data analysis project exploring datasets to uncover patterns and insights using Python's data science stack.
-**Tech Stack:** NumPy, Pandas, Matplotlib
-**GitHub:** <!-- Add your GitHub link here -->
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=Audio+E-Book+Reader&font=roboto" width="100%" />
 
-#### 🌦️ Weather App
-A weather application that fetches and displays real-time weather data for any location.
-**Tech Stack:** JavaScript, Weather API
-**GitHub:** <!-- Add your GitHub link here -->
+**📖 Audio E-Book Reader**
+Converts PDF documents into audio, making reading more accessible using text extraction and text-to-speech.
+`Python` `PyPDF` `gTTS`
 
-#### 🧮 Calculator Design
-A clean, functional calculator built with core web technologies.
-**Tech Stack:** HTML, CSS, JavaScript
-**GitHub:** <!-- Add your GitHub link here -->
+</td>
+<td width="50%">
 
-#### 🌐 Personal Portfolio Website
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=E-Commerce+Website&font=roboto" width="100%" />
+
+**🛒 E-Commerce Website**
+Responsive e-commerce website front end built from scratch, covering product listings, layout, and interactivity.
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=EDA+Project&font=roboto" width="100%" />
+
+**📊 EDA Project — Exploratory Data Analysis**
+Data analysis project exploring datasets to uncover patterns and insights using Python's data science stack.
+`NumPy` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%">
+
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=Weather+App&font=roboto" width="100%" />
+
+**🌦️ Weather App**
+Weather application that fetches and displays real-time weather data for any location.
+`JavaScript` `Weather API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=Calculator&font=roboto" width="100%" />
+
+**🧮 Calculator Design**
+Clean, functional calculator built with core web technologies.
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+<img src="https://placehold.co/600x300/0d1117/58A6FF?text=Portfolio+Website&font=roboto" width="100%" />
+
+**🌐 Personal Portfolio Website**
 My personal portfolio showcasing my projects, skills, and journey as a developer.
-**Tech Stack:** HTML, CSS, JavaScript
-**GitHub:** <!-- Add your GitHub link here -->
-**Live Demo:** [personalwebport34.netlify.app](https://personalwebport34.netlify.app/)
+`HTML` `CSS` `JavaScript`
+🔗 Live Demo: [personalwebport34.netlify.app](https://personalwebport34.netlify.app/)
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manoj-939&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-939&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-939&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manoj-939&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-939&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-939&theme=dracula&hide_border=true&background=0d1117" />
+</div>
 
-### 🏆 Achievements & Certifications
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj-939&theme=react-dark&hide_border=true&bg_color=0d1117" width="90%" />
+</div>
+
+<br>
+
+## 🏆 Achievements & Certifications
 - 💻 Certified in MERN Stack Development by PurpleLane and Nuevydia
 
----
+<br>
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 - 🐍 Python Full Stack Development
 - 🤖 Generative AI
 
----
+<br>
 
-### 🤝 Open to Collaborate On
+## 🤝 Open to Collaborate On
 - 🌍 Open-source projects
 - 💼 Freelance opportunities
 - 🔬 Research projects
 - 🚀 Startup ideas
 
----
+<br>
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kotipalli-manoj-459693280" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kotipallimanoj81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://personalwebport34.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/kotipalli-manoj-459693280" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kotipallimanoj81@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://personalwebport34.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
 
 <p align="center">⭐️ Thanks for stopping by — let's build something amazing together!</p>
