@@ -1,13 +1,6 @@
 <div align="center">
 
-<!-- 🌗 Adaptive header: auto-switches with the viewer's GitHub theme (light/dark).
-     GitHub Markdown doesn't allow JS, so a real click-to-toggle button isn't possible —
-     this <picture> trick is the closest real equivalent and works automatically. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,50:11998e,100:1cb5e0&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+Python);GenAI+%26+Web+Development+Enthusiast;Always+Learning%2C+Always+Building!" />
 
@@ -22,9 +15,6 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Manoj-939&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-
-<!-- 🎨 Animated gradient divider -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 </div>
 
@@ -42,15 +32,6 @@
 - ⚡ **Fun Fact:** I can spend hours debugging one tiny error… and then realize it was just a missing `;` 😄
 
 **🎯 Interests:** Generative AI 🤖 &nbsp;|&nbsp; Web Development 💻
-
-<br>
-
-<!-- 🧑‍💻 Developer coding animation -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="45" title="VS Code" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" />
-</div>
 
 <br>
 
@@ -177,18 +158,6 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 
 <br>
 
-<!-- 🐍 Contribution snake animation — requires a one-time GitHub Action setup.
-     See setup note at the bottom of this file. -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manoj-939/Manoj-939/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manoj-939/Manoj-939/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Manoj-939/Manoj-939/output/github-contribution-grid-snake.svg" width="90%" />
-</picture>
-</div>
-
-<br>
-
 ## 🏆 Achievements & Certifications
 - 💻 Certified in MERN Stack Development by PurpleLane and Nuevydia
 
@@ -222,21 +191,6 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1cb5e0,100:38ef7d&height=120&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
 
 <p align="center">⭐️ Thanks for stopping by — let's build something amazing together!</p>
-
-<!--
-📝 SETUP NOTE for the snake animation section above:
-1. Create a new repo named exactly "Manoj-939" (a "special" repo GitHub uses for your profile).
-2. Add a workflow file at .github/workflows/snake.yml using the action
-   Platane/snk (github.com/Platane/snk) with a schedule trigger.
-3. It generates github-contribution-grid-snake.svg / -dark.svg on push, which the
-   <picture> tags above will then pull automatically once it exists.
-Until that Action runs once, those two images will just look broken — everything else
-in this file works immediately as-is.
--->
