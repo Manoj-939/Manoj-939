@@ -144,7 +144,7 @@ Clean, Simple functional calculator built with core web technologies performs ba
 </td>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Portfolio+Website&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUt0wqWLKTCe5-Px_KttbHYWCYTEWo0X8SToYzVIX9zg&s=10text=Portfolio+Website&font=roboto" width="100%" />
 
 **🌐 Personal Portfolio Website**
 My personal portfolio showcasing my projects, skills, and journey as a developer.
