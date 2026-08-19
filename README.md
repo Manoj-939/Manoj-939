@@ -30,7 +30,7 @@
 
 ## 👤 About Me
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+- <div align="right"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="180" /> </div>
 
 - 📍 Based in East Vipparru, Andhra Pradesh
 - 🎓 B.Tech in Electronics & Communication Engineering
@@ -41,7 +41,7 @@
 - 🎯 **Career Goals:** Looking for Full Stack Developer, MERN Stack Developer, and Python Full Stack Developer roles — with opportunities to work on GenAI-powered applications and real-world projects
 - ⚡ **Fun Fact:** I can spend hours debugging one tiny error… and then realize it was just a missing `;` 😄
 - **🎯 Interests:** Generative AI 🤖 &nbsp;|&nbsp; Web Development 💻
-- <div align="right"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="180" /> </div>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 <br clear="right">
 
