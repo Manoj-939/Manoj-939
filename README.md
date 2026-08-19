@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic dark animated SVG banner (renders live from capsule-render — dark gradient + fade animation) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:2c5364&height=180&animation=twinkling" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXp2fmSW-uZWVEKZRcbrumy60WPcg7hk2bIvseX3Y--w&s=10" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
 
