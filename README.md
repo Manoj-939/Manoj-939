@@ -72,7 +72,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Roamly&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCqy25YVXDe5bFrH4E_H84u2tsNOQpi2spEP491JTnw&s=10text=Roamly&font=roboto" width="100%" />
 
 **🏠 Roamly — Airbnb-Style Homepage Clone**
 Airbnb-inspired homepage clone built during my frontend internship, featuring a wishlist hook, category filters, a price-range slider, and a fully responsive listings grid.
