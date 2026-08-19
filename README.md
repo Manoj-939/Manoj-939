@@ -1,4 +1,3 @@
-<div bgcolor="black">
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0d0d1a,30:1a1a2e,45:16213e,60:0f3460,75:16213e,90:1a1a2e,100:000000&height=10&animation=twinkling" width="100%" />
 </div>
@@ -164,8 +163,8 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.fast.vercel.app/api?username=Manoj-939&show_icons=true&theme=dracula&theme=dracula" />
-<img height="165" src="https://github-readme-stats.fast.vercel.app/api/top-langs/?username=Manoj-939&layout=compact&theme=dracula&theme=dracula" />
+<img height="165" src="https://github-readme-stats.fast.vercel.app/api?username=Manoj-939&show_icons=true&theme=dracula&theme=dracula bgcolor="black" />
+<img height="165" src="https://github-readme-stats.fast.vercel.app/api/top-langs/?username=Manoj-939&layout=compact&theme=dracula&theme=dracula" bgcolor="black" />
 </div>
 
 <div align="center">
@@ -223,4 +222,3 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 
 <p align="center">⭐️ Thanks for stopping by — let's build something amazing together!</p>
 
-</div>
