@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:1a1a2e,40:16213e,60:0f3460,80:1a1a2e,100:000000&height=8&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0d0d1a,30:1a1a2e,45:16213e,60:0f3460,75:16213e,90:1a1a2e,100:000000&height=10&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 </div>
 
 ## 👤 About Me
@@ -78,6 +78,7 @@
 **🏠 Roamly — Airbnb-Style Homepage Clone**
 Airbnb-inspired homepage clone built during my frontend internship, featuring a wishlist hook, category filters, a price-range slider, and a fully responsive listings grid.
 `React` `Tailwind CSS` `Vite` `lucide-react`
+🔗 Live Demo: <!-- Add your live demo link here -->
 
 </td>
 <td width="50%">
@@ -139,7 +140,7 @@ Weather application that fetches and displays real-time weather data for any loc
 <img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Calculator&font=roboto" width="100%" />
 
 **🧮 Calculator Design**
-Clean, functional calculator built with core web technologies that performs basic arithimetic operations.
+Clean, functional calculator built with core web technologies.
 `HTML` `CSS` `JavaScript`
 
 </td>
@@ -150,12 +151,17 @@ Clean, functional calculator built with core web technologies that performs basi
 **🌐 Personal Portfolio Website**
 My personal portfolio showcasing my projects, skills, and journey as a developer.
 `HTML` `CSS` `JavaScript`
+🔗 Live Demo: [personalwebport34.netlify.app](https://personalwebport34.netlify.app/)
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -180,7 +186,7 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 <br>
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Pac-man.gif" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
 </div>
 
 ## 📚 Currently Learning
@@ -196,6 +202,10 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 - 🚀 Startup ideas
 
 <br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="300" />
+</div>
 
 ## 📫 Connect With Me
 
