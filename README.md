@@ -1,12 +1,6 @@
 <div align="center">
 
-<!-- Dynamic dark animated SVG banner (renders live from capsule-render — dark gradient + fade animation) -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXp2fmSW-uZWVEKZRcbrumy60WPcg7hk2bIvseX3Y--w&s=10" width="70%" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
-
-<!-- Animated developer/coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b672-89c5e0e0fd8f.gif" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+Python);GenAI+%26+Web+Development+Enthusiast;Always+Learning%2C+Always+Building!" />
 
