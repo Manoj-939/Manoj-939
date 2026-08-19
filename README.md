@@ -1,3 +1,4 @@
+<div bgcolor="#0000000">
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0d0d1a,30:1a1a2e,45:16213e,60:0f3460,75:16213e,90:1a1a2e,100:000000&height=10&animation=twinkling" width="100%" />
 </div>
