@@ -78,7 +78,6 @@
 **🏠 Roamly — Airbnb-Style Homepage Clone**
 Airbnb-inspired homepage clone built during my frontend internship, featuring a wishlist hook, category filters, a price-range slider, and a fully responsive listings grid.
 `React` `Tailwind CSS` `Vite` `lucide-react`
-🔗 Live Demo: <!-- Add your live demo link here -->
 
 </td>
 <td width="50%">
@@ -140,7 +139,7 @@ Weather application that fetches and displays real-time weather data for any loc
 <img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Calculator&font=roboto" width="100%" />
 
 **🧮 Calculator Design**
-Clean, functional calculator built with core web technologies.
+Clean, functional calculator built with core web technologies that performs basic arithimetic operations.
 `HTML` `CSS` `JavaScript`
 
 </td>
@@ -151,7 +150,6 @@ Clean, functional calculator built with core web technologies.
 **🌐 Personal Portfolio Website**
 My personal portfolio showcasing my projects, skills, and journey as a developer.
 `HTML` `CSS` `JavaScript`
-🔗 Live Demo: [personalwebport34.netlify.app](https://personalwebport34.netlify.app/)
 
 </td>
 </tr>
