@@ -30,6 +30,8 @@
 
 ## 👤 About Me
 <img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+
 - 📍 Based in East Vipparru, Andhra Pradesh
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 🧑‍💻 Currently a Full Stack Learner / Fresher
