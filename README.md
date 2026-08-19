@@ -93,7 +93,7 @@ AI-powered application that analyzes medical reports using Retrieval-Augmented G
 <tr>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Audio+E-Book+Reader&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6iCPz-nlKpM3f6fXInpAnoOI-NPwnKgz_pPUEJ_q4A&s=10text=Audio+E-Book+Reader&font=roboto" width="100%" />
 
 **📖 Audio E-Book Reader**
 Converts PDF documents into audio, making reading more accessible using text extraction and text-to-speech.
