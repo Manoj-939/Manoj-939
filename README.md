@@ -230,3 +230,13 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 
 <p align="center">⭐️ Thanks for stopping by — let's build something amazing together!</p>
 
+<!--
+📝 SETUP NOTE for the snake animation section above:
+1. Create a new repo named exactly "Manoj-939" (a "special" repo GitHub uses for your profile).
+2. Add a workflow file at .github/workflows/snake.yml using the action
+   Platane/snk (github.com/Platane/snk) with a schedule trigger.
+3. It generates github-contribution-grid-snake.svg / -dark.svg on push, which the
+   <picture> tags above will then pull automatically once it exists.
+Until that Action runs once, those two images will just look broken — everything else
+in this file works immediately as-is.
+-->
