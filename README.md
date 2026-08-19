@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:0f3460,100:000000&height=4&animation=twinkling" width="100%" />
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Kotipalli%20Manoj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Python%20%2B%20GenAI&descAlignY=55&descSize=18" />
 
@@ -56,6 +60,10 @@
 </div>
 
 <br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="500" />
+</div>
 
 ## 🚀 Featured Projects
 
