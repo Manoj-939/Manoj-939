@@ -135,7 +135,7 @@ Weather application that fetches and displays real-time weather data for any loc
 <tr>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Calculator&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQqabN0CmP3eulfzy5oJfItuGtbZsK_j9EoKwBb759Q&s=10text=Calculator&font=roboto" width="100%" />
 
 **🧮 Calculator Design**
 Clean, Simple functional calculator built with core web technologies performs basic arithimetic operations.
