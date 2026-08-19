@@ -222,3 +222,5 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer" />
 
 <p align="center">⭐️ Thanks for stopping by — let's build something amazing together!</p>
+
+</div>
