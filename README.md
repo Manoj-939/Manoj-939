@@ -81,7 +81,7 @@ Airbnb-inspired homepage clone built during my frontend internship, featuring a 
 </td>
 <td width="50%">
 
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSviF8odJeKZtO3PrRAwrAL7o7Iqb4mqbent4m6dyQ8gg&s=10text=AI+Medical+Report+Analyser&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSviF8odJeKZtO3PrRAwrAL7o7Iqb4mqbent4m6dyQ8gg&s=10text=AI+Medical+Report+Analyser&font=roboto" width="100%" />
 
 **🏥 AI Medical Report Analyser**
 AI-powered application that analyzes medical reports using Retrieval-Augmented Generation (RAG) and semantic search to extract and explain key insights.
