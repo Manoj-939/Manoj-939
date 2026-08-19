@@ -123,7 +123,7 @@ Data analysis project exploring datasets to uncover patterns and insights using 
 </td>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Weather+App&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBK1P59Qn5spei3tvds9zKM4ZoxPLUDqJq1w7Hxk5KHQ&s=10text=Weather+App&font=roboto" width="100%" />
 
 **🌦️ Weather App**
 Weather application that fetches and displays real-time weather data for any location.
