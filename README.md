@@ -81,7 +81,7 @@ Airbnb-inspired homepage clone built during my frontend internship, featuring a 
 </td>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=AI+Medical+Report+Analyser&font=roboto" width="100%" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSviF8odJeKZtO3PrRAwrAL7o7Iqb4mqbent4m6dyQ8gg&s=10text=AI+Medical+Report+Analyser&font=roboto" width="100%" />
 
 **🏥 AI Medical Report Analyser**
 AI-powered application that analyzes medical reports using Retrieval-Augmented Generation (RAG) and semantic search to extract and explain key insights.
@@ -123,7 +123,7 @@ Data analysis project exploring datasets to uncover patterns and insights using 
 </td>
 <td width="50%">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBK1P59Qn5spei3tvds9zKM4ZoxPLUDqJq1w7Hxk5KHQ&s=10text=Weather+App&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1__dB-8bCHK5vtTO92niAmiU5QpOjkVKkiokXX2o7EA&s=10text=Weather+App&font=roboto" width="100%" />
 
 **🌦️ Weather App**
 Weather application that fetches and displays real-time weather data for any location.
