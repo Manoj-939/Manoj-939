@@ -123,7 +123,7 @@ Weather application that fetches and displays real-time weather data for any loc
 <img src="https://placehold.co/600x300/0d1117/1a1a2e?text=Calculator&font=roboto" width="100%" />
 
 **🧮 Calculator Design**
-Clean, functional calculator built with core web technologies.
+Clean, Basic functional calculator built with core web technologies that performs basic arithimetic operations.
 `HTML` `CSS` `JavaScript`
 
 </td>
