@@ -114,7 +114,7 @@ Responsive e-commerce website front end built from scratch, covering product lis
 <tr>
 <td width="50%">
 
-<img src="https://placehold.co/600x300/0d1117/1a1a2e?text=EDA+Project&font=roboto" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBK1P59Qn5spei3tvds9zKM4ZoxPLUDqJq1w7Hxk5KHQ&s=10text=EDA+Project&font=roboto" width="100%" />
 
 **📊 EDA Project — Exploratory Data Analysis**
 Data analysis project exploring datasets to uncover patterns and insights using Python's data science stack.
