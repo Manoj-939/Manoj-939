@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:0f3460,100:000000&height=4&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:1a1a2e,40:16213e,60:0f3460,80:1a1a2e,100:000000&height=8&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
@@ -180,6 +180,10 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 - 💻 Certified in MERN Stack Development by PurpleLane and Nuevydia
 
 <br>
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Pac-man.gif" width="120" />
+</div>
 
 ## 📚 Currently Learning
 - 🐍 Python Full Stack Development
