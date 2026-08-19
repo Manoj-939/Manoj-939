@@ -62,7 +62,6 @@
 **🏠 Roamly — Airbnb-Style Homepage Clone**
 Airbnb-inspired homepage clone built during my frontend internship, featuring a wishlist hook, category filters, a price-range slider, and a fully responsive listings grid.
 `React` `Tailwind CSS` `Vite` `lucide-react`
-🔗 Live Demo: <!-- Add your live demo link here -->
 
 </td>
 <td width="50%">
@@ -135,7 +134,6 @@ Clean, functional calculator built with core web technologies.
 **🌐 Personal Portfolio Website**
 My personal portfolio showcasing my projects, skills, and journey as a developer.
 `HTML` `CSS` `JavaScript`
-🔗 Live Demo: [personalwebport34.netlify.app](https://personalwebport34.netlify.app/)
 
 </td>
 </tr>
