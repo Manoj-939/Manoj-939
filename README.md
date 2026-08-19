@@ -163,8 +163,8 @@ My personal portfolio showcasing my projects, skills, and journey as a developer
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manoj-939&show_icons=true&theme=dracula&theme=dracula" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-939&layout=compact&theme=dracula&theme=dracula" />
+<img height="165" src="https://github-readme-stats.fast.vercel.app/api?username=Manoj-939&show_icons=true&theme=dracula&theme=dracula" />
+<img height="165" src="https://github-readme-stats.fast.vercel.app/api/top-langs/?username=Manoj-939&layout=compact&theme=dracula&theme=dracula" />
 </div>
 
 <div align="center">
