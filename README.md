@@ -40,8 +40,7 @@
 - 🌱 Always learning, building, and improving my development skills
 - 🎯 **Career Goals:** Looking for Full Stack Developer, MERN Stack Developer, and Python Full Stack Developer roles — with opportunities to work on GenAI-powered applications and real-world projects
 - ⚡ **Fun Fact:** I can spend hours debugging one tiny error… and then realize it was just a missing `;` 😄
-- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+Python);GenAI+%26+Web+Development+Enthusiast;Always+Learning%2C+Always+Building!" />
+- <img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 
 **🎯 Interests:** Generative AI 🤖 &nbsp;|&nbsp; Web Development 💻
